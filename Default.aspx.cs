@@ -9,6 +9,7 @@ namespace TestApp
 {
     public partial class _Default : Page
     {
+        //Remove some code
         protected void Page_Load(object sender, EventArgs e)
         {
 
